@@ -1,0 +1,26 @@
+.footer {
+  background-color: black;
+  color: grey;
+  text-align: center;
+  padding: 80px 0;
+  font-size: 20px;
+}
+
+.footer #social-links {
+  font-size: 34px;
+  color: #3793CB;
+}
+
+.footer #social-links:hover {
+  color: #435C5F;
+}
+
+.footer .list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.footer .list-inline {
+  list-style: none;
+  padding-left: 0px;
+}

@@ -1,0 +1,21 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  display: flex;
+}
+
+.banner .hero-btn {
+  padding: 15px 25px;
+  background-color: rgb(53, 206, 178);
+  color: white;
+  font-weight: lighter;
+  border-radius: 40px;
+  margin: 1px grey;
+  font-size: smaller;
+}
+
+.banner .hero-btn:hover {
+  background-color: darkslategrey;
+  margin: 2px rgb(39, 39, 39);
+}
